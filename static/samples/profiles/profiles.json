@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "application": "[Your Name] Profiles Customization Sample",
+      "payload": {
+        "include-files": [
+          "samples/profiles/profilesCustomization.js"
+        ]
+      },
+      "name": "[Your Name] Profiles Customization Extension",
+      "type": "com.ibm.customizer.ui",
+	  "path":"profiles"
+    }
+  ],
+  "name": "[Your Name] Profiles Customization Sample",
+  "description": "[Your Name] Profiles Customization Sample",
+  "services": [
+    "Customizer"
+  ],
+  "title": "[Your Name] Profiles Customization Sample"
+}
